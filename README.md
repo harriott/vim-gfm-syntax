@@ -6,7 +6,7 @@ This plugin is dated - preservim's markdown plugin is much better - see my clone
 
 Nevertheless, this plugin has a few small advantages, and I keep this fork just for being able to syntax highlight emojis.
 
-The two don't play well together, so this fork, along with my configurations (see [$vimfiles/ftplugin/gfm.vim]()) allows this plugin to be used exclusively for `*.gfm` files.
+The two (this and preservim's) don't play well together, so this fork, along with my configurations (see [$vimfiles/ftplugin/gfm.vim](https://github.com/harriott/vimfiles/blob/master/ftplugin/gfm.vim)) allows me to use this plugin exclusively for `*.gfm` files.
 
 Other than this brief README, the only significant change in this fork is that `vim-gfm-syntax/after/syntax/markdown/` is renamed to `vim-gfm-syntax/after/syntax/gfm/`.
 
